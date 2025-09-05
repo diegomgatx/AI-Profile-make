@@ -1,0 +1,5 @@
+{
+  "name": "AI Profile Picture Enhancer",
+  "description": "Upload an image and use AI to edit it for a professional profile picture. This demo starts with a sample image and a prompt to add a black blazer.",
+  "requestFramePermissions": []
+}
